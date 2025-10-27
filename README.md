@@ -97,9 +97,11 @@ def get_news(self) -> List[Dict]:
 
 ### Тестирование
 
-**Скриншоты работы:**
+Скриншоты демонстрируют работу команд
+https://drive.google.com/drive/folders/13-Du4Mi8hNZkSQaeFLFkNlSSL60xMMNs?usp=sharing 
+Видео-демо показывает запуск, получение новостей, фильтрацию по ключевым словам и сохранение интересных статей.
+https://drive.google.com/file/d/1WAyw9SJYnYC563RPUkMbJib8S-vim7Qz/view?usp=sharing 
 
-![Работа бота](bot_screenshot.png)
 
 **Примеры запросов и ответов:**
 
