@@ -1,0 +1,19 @@
+{
+  "user_stats": {
+    "5624684741": {
+      "commands_count": 4,
+      "last_command": "start",
+      "feedback_sent": false,
+      "commands_used": {
+        "start": 3,
+        "news": 1
+      }
+    }
+  },
+  "total_commands": 4,
+  "last_update": "2025-10-27T14:57:22.924766",
+  "5624684741": {
+    "commands_count": 34,
+    "last_command": "2025-10-27T19:35:07.283719"
+  }
+}
